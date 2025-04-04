@@ -1,7 +1,7 @@
 loopy() 
  function loopy() { 
  var sWord ="@LostXofs" 
- while (sWord != "Basic king") {// Pass
+ while (sWord != "Basidbjs") {// Pass
  sWord = prompt("Enter The Uesr ")  
  } 
  
