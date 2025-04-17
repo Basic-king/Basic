@@ -6,7 +6,7 @@ loopy()
  } 
  
 //confirm("ok");
-
+window.alert("  BASIC BZF 3LIK  ");
 window.alert("  𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐏𝐀𝐍𝐄𝐋  ");
 
 }
